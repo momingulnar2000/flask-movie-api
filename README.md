@@ -15,7 +15,7 @@ This is a simple Flask-based RESTful API for managing movie data in a MongoDB da
 
 ## Getting Started
 
-1. Clone the repository: https://github.com/your-username/movie-api.git
+1. Clone the repository
 
 2. Install the required dependencies: pip install -r requirements.txt
  
