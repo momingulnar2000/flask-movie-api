@@ -52,7 +52,7 @@ The API uses the following sample data:
 
 The API will be accessible at http://localhost:5000.
 
-## Getting Started
+## Endpoints
 GET /movies
 Retrieve a list of all movies.
 
