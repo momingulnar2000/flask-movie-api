@@ -1,5 +1,5 @@
 # flask-movie-api
-Rest API server with CRUD based routes using Python and MongoDB, and tested using Postman
+RestAPI server with CRUD based routes using Python and MongoDB, and tested using Postman
 
 # Movie API
 
